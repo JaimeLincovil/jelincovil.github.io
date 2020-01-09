@@ -1,6 +1,6 @@
-# Jaime E. Lincovil
+# Minimal Theme
 
-[Ph. D in Statistics. University of Sao Paulo](http://orderedlist.github.com/minimal/)
+[Demo the Theme](http://orderedlist.github.com/minimal/)
 
 This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
 
